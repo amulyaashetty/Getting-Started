@@ -3,8 +3,8 @@
 
 Template:
 ```
-**Name** : <Your Name> <br />
-**Link to profile** : [your-username](link-to-your-profile) <br />
+**Name** : <Amulya Shetty> <br />
+**Link to profile** : [amulyaashetty](https://github.com/amulyaashetty) <br />
 **About Me** : <br />
 <A couple of lines about yourself!> <br />
 ```
