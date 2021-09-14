@@ -6,7 +6,7 @@ Template:
 **Name** : <Amulya Shetty> <br />
 **Link to profile** : [amulyaashetty](https://github.com/amulyaashetty) <br />
 **About Me** : <br />
-<A couple of lines about yourself!> <br />
+<A tech enthusiast!> <br />
 ```
 **Name** : Charvi Bannur <br />
 **Link to profile** : [charvibannur](https://github.com/charvibannur) <br />
